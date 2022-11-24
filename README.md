@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hello 👋
+
+I am a Software Engineer at [RelationalAI](http://relational.ai), where I work on [Julia](julialang.org), [Rel](https://docs.relational.ai/rel/), and our relataional knowledge graph database management system ([RKGMS](https://docs.relational.ai/rkgms)).
+
+#### 📫 You can find me at:
+- I've just joined Mastadon: <a rel="me" href="https://hachyderm.io/@nhdaly">@nhdaly@hachyderm.io</a>
+- https://nhdaly.github.io/
+- email (my github user name `@` `gmail.com`)
+- 😄 Pronouns: he/him/his
+
+#### Interests
+- 🌐 Climate
+    - 🌎 Climate Justice
+    - 🌍 Climate Policy
+    - 🌏 Clean Tech
+- 🧪 Software for Science
+    - JuliaLang
+    - Rel
+- 🗣 Human Languages
+    - Mandarin (I'm conversational at best)
+    - Studying Malayalam
+    - Linguistics
+
 
 <!--
 **NHDaly/NHDaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
