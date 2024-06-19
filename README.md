@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a Software Engineer at [RelationalAI](http://relational.ai), where I work on [Julia](julialang.org), [Rel](https://docs.relational.ai/rel/), and our relataional knowledge graph database management system ([RKGMS](https://docs.relational.ai/rkgms)).
+I am a Software Engineer at [RelationalAI](http://relational.ai), where I work on [Julia](julialang.org), [Rel](https://docs.relational.ai/rel/), and our knowledge graph system.
 
 #### 📫 You can find me at:
 - I've just joined Mastadon: <a rel="me" href="https://hachyderm.io/@nhdaly">`@nhdaly@hachyderm.io`</a>
